@@ -8,7 +8,6 @@ import 'package:dartz/dartz.dart';
 
 class MovieRepositoryImpl implements MovieRepository {
   final MovieRemoteDataSource remoteDataSource;
-
   MovieRepositoryImpl({required this.remoteDataSource});
 
   @override

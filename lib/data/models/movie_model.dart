@@ -42,6 +42,4 @@ class MovieModel {
       posterPath: posterPath
     );
   }
-
-
 }
